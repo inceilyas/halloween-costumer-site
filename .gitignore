@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+# BEGIN unpublished languages (managed by build.py)
+/tr/
+/src/tr/
+/de/
+/src/de/
+/fr/
+/src/fr/
+/it/
+/src/it/
+/es/
+/src/es/
+/pt-br/
+/src/pt-br/
+/ru/
+/src/ru/
+/ja/
+/src/ja/
+/ko/
+/src/ko/
+/zh-hant/
+/src/zh-hant/
+# END unpublished languages
