@@ -1,0 +1,171 @@
+title: Informativa sulla privacy
+description: Come {{APP_NAME}} tratta le tue foto e i tuoi dati: cosa viene inviato al servizio di IA, basi giuridiche, cosa viene conservato e per quanto tempo, e i tuoi diritti in tutto il mondo.
+
+# Informativa sulla privacy
+
+> Data di entrata in vigore: {{EFFECTIVE_DATE}}
+
+{{APP_NAME}} (l'«App») trasforma le tue foto in ritratti da mostro di Halloween usando un servizio di terze parti per la generazione di immagini con IA. Questa informativa spiega quali informazioni l'App tratta, perché e su quale base giuridica, chi le riceve, per quanto tempo vengono conservate e quali diritti e scelte hai, ovunque tu viva. L'App è gestita da {{DEVELOPER_NAME}} («noi»), titolare del trattamento dei tuoi dati personali (il soggetto che decide come e perché vengono trattati). I nostri recapiti sono nella sezione 14.
+
+## 1. In breve
+
+- Le foto che scegli vengono inviate a un servizio di IA esterno (OpenAI) solo per creare il ritratto che hai richiesto. Chiediamo il tuo consenso esplicito prima che ciò avvenga per la prima volta e puoi revocarlo in qualsiasi momento.
+- Non conserviamo le foto che invii. Le inoltriamo, in memoria, al servizio di IA e rimandiamo il risultato al tuo telefono.
+- I ritratti finiti vengono salvati sul tuo telefono. Perché un ritratto non vada perso se la connessione cade o se l'App viene chiusa mentre è in elaborazione, conserviamo sul nostro server, in forma cifrata, una copia di ogni ritratto appena generato per al massimo 24 ore. Serve solo a consegnare il ritratto al tuo telefono e viene eliminata non appena il telefono conferma di averlo salvato, o al più tardi dopo 24 ore.
+- Non usiamo le tue foto né il tuo volto per addestrare modelli di IA, per la pubblicità o per l'analisi. Non identifichiamo né riconosciamo le persone dal volto.
+- Non c'è nessun account, nessun SDK pubblicitario o di analisi nell'App e nessun tracciamento attraverso le app e i siti web di altre aziende. Il nostro server condivide il tuo identificatore anonimo e i registri degli acquisti (mai le foto) con un fornitore di analisi degli abbonamenti (RevenueCat, sezione 4).
+- Puoi eliminare i tuoi dati dall'interno dell'App in qualsiasi momento (Profilo > Elimina tutti i miei dati) e revocare il tuo consenso all'IA (Profilo > Revoca il consenso all'IA).
+
+## 2. Informazioni che trattiamo
+
+**a. Foto che scegli o scatti.** Quando scegli una foto dalla libreria o ne scatti una con la fotocamera e tocchi per creare un ritratto, la foto (un JPEG ridimensionato) e il look selezionato vengono inviati al nostro backend e da lì al servizio di IA. Se scegli un look di gruppo o di coppia con selfie separati, viene inviato ogni selfie. Le foto possono mostrare il volto tuo e di altre persone. Accediamo solo alle foto che scegli esplicitamente; l'App non analizza la tua libreria di foto.
+
+**b. Controllo del volto sul dispositivo.** Prima dell'invio di una foto, l'App usa il framework Vision di Apple sul tuo dispositivo per verificare che sia presente un numero adeguato di volti (per esempio esattamente due per un look di coppia). Questo controllo viene eseguito interamente sul tuo telefono. Rileva dove si trovano i volti e quanti sono. Non crea un modello del volto né alcun identificatore biometrico, non identifica né riconosce chi sia nessuno e i suoi risultati non vengono conservati né inviati da nessuna parte, se non come numero di volti usato per scrivere le istruzioni per il servizio di IA.
+
+**c. Ritratti generati.** Il risultato del servizio di IA torna all'App e viene salvato sul tuo telefono. Una copia temporanea di ogni ritratto generato viene conservata, in forma cifrata, nel nostro archivio cloud per al massimo 24 ore, solo per consegnarla al tuo telefono se la connessione non funziona; i tuoi selfie e le altre foto inviate non vengono mai conservati.
+
+**d. Identificatore anonimo e crediti.** L'App crea un identificatore Firebase anonimo per la tua installazione. Lo usiamo per tenere il saldo dei tuoi crediti e per registrare acquisti e movimenti di crediti (ID transazione, prodotto, data). Non ti chiediamo di creare un account e nell'App non raccogliamo il tuo nome, il tuo indirizzo email né il tuo numero di telefono. Quando chiamiamo il servizio di IA includiamo un identificatore pseudonimo derivato dal tuo ID anonimo con un hash a chiave unidirezionale; non è il tuo vero identificatore e il servizio di IA non può ricondurlo a te. Aiuta il servizio di IA a rilevare gli abusi.
+
+**e. Acquisti.** Gli acquisti e gli abbonamenti sono gestiti da Apple. Non riceviamo mai la tua carta di pagamento né i dati del tuo Apple Account. Riceviamo la conferma di una transazione (ID transazione, prodotto, date, stato di rinnovo o rimborso) per poter assegnare o rimuovere crediti. Se tocchi Ripristina acquisti, l'App invia al nostro server i registri degli acquisti firmati da Apple, in modo che possiamo verificarli e ricollegare i tuoi acquisti e i crediti residui all'App su questo dispositivo. Questi registri contengono il prodotto, le date e l'identificatore di acquisto casuale per installazione che abbiamo generato; non contengono il tuo nome, il tuo indirizzo email né i dati di pagamento. Se i registri corrispondono a un'altra installazione dell'App, i crediti residui di quell'installazione vengono spostati (non copiati) su questa. Il ripristino non richiede alcun accesso e non crea nessun nuovo tipo di dati personali. Inoltriamo inoltre questi registri degli acquisti, insieme al tuo identificatore anonimo, dal nostro server a RevenueCat (sezione 4) per poter vedere le statistiche su abbonamenti e ricavi; l'App stessa non contiene alcun software di RevenueCat e non invia nulla a RevenueCat.
+
+**f. Integrità del dispositivo.** Per proteggere il servizio dagli abusi usiamo App Attest di Apple (tramite Firebase App Check) per confermare che le richieste provengano da una copia autentica dell'App, e DeviceCheck di Apple per ricordare, con una singola impostazione on/off conservata da Apple, che un dispositivo ha già usato il primo ritratto gratuito. DeviceCheck non ci dice chi sei.
+
+**g. Registri tecnici.** I nostri servizi cloud e il servizio di IA possono registrare informazioni tecniche come l'indirizzo IP, l'ora della richiesta e i codici di errore, per sicurezza e per far funzionare il servizio. Il nostro codice non scrive foto, dati del volto né dati personali nei registri. Non usiamo questi registri per creare profili su di te.
+
+**h. Messaggi all'assistenza.** Se ci scrivi un'email, riceviamo il tuo indirizzo email e ciò che scrivi, e lo usiamo solo per risponderti.
+
+**i. Impostazioni sul dispositivo.** L'App conserva sul tuo telefono semplici preferenze (per esempio che hai completato l'introduzione e che hai accettato l'avviso sull'IA).
+
+Non raccogliamo la tua posizione precisa, i tuoi contatti, i dati sulla salute né la cronologia di navigazione.
+
+## 3. Perché li usiamo e basi giuridiche
+
+| Finalità | Informazioni | Base giuridica (GDPR e UK GDPR; basi equivalenti secondo altre leggi) |
+| --- | --- | --- |
+| Creare il ritratto che richiedi: inviare le tue foto e il look scelto al servizio di IA | Foto, look selezionato, numero di volti, identificatore pseudonimo | Il tuo consenso (art. 6, par. 1, lett. a), dato nell'App prima della prima creazione. Puoi revocarlo in qualsiasi momento; la revoca non pregiudica il trattamento già avvenuto. |
+| Crediti, acquisti, abbonamenti, Ripristina acquisti, rimborsi di crediti | Identificatore anonimo, saldo dei crediti, registri degli acquisti | Esecuzione del nostro contratto con te (art. 6, par. 1, lett. b); conservazione dei registri che la legge ci impone di conservare (art. 6, par. 1, lett. c) |
+| Comprendere abbonamenti e ricavi (analisi degli abbonamenti) | Identificatore anonimo, registri di acquisto e rinnovo firmati da Apple | Il nostro legittimo interesse a gestire e migliorare un servizio a pagamento (art. 6, par. 1, lett. f). Puoi opporti (sezione 7). |
+| Prevenire frodi e abusi, far rispettare il solo ritratto gratuito per dispositivo, mantenere sicuro il servizio (App Check, DeviceCheck, limiti di frequenza, filtri di sicurezza, registri) | Identificatore anonimo, segnali di integrità del dispositivo, registri tecnici | Il nostro legittimo interesse a proteggere il servizio, gli altri utenti e noi stessi (art. 6, par. 1, lett. f). Puoi opporti (sezione 7). |
+| Rispondere alle richieste di assistenza | Indirizzo email, messaggio, ID assistenza | Il nostro contratto con te e il nostro legittimo interesse ad aiutarti |
+| Rispettare la legge e gestire eventuali pretese legali | Registri descritti nella sezione 6 | Obbligo di legge e legittimo interesse |
+
+**Volti e foto.** I volti e le foto presenti nelle tue immagini sono usati solo per generare il ritratto che hai richiesto. Non vengono usati per addestrare o migliorare alcun modello di IA, per pubblicità o marketing, per analisi o profilazione, né venduti o condivisi per tali scopi. Non creiamo una banca dati di volti e non analizziamo le foto per dedurre caratteristiche sensibili di nessuno.
+
+Se non acconsenti all'invio delle foto al servizio di IA, puoi comunque aprire l'App, ma questa non può creare ritratti.
+
+## 4. Chi riceve le informazioni
+
+Condividiamo le informazioni solo con i fornitori di servizi necessari per far funzionare l'App:
+
+- **OpenAI** (generazione di immagini). Le tue foto e il look selezionato vengono inviati all'API di OpenAI per produrre il tuo ritratto. OpenAI agisce come nostro responsabile del trattamento. Secondo la politica sui dati dell'API pubblicata da OpenAI, i dati inviati all'API non vengono usati per addestrare o migliorare i modelli di OpenAI, a meno che il cliente non vi aderisca (noi non vi abbiamo aderito), e i contenuti dell'API possono essere conservati nei registri di monitoraggio degli abusi fino a 30 giorni, o più a lungo se richiesto dalla legge o necessario per proteggere i servizi. La politica di OpenAI: https://developers.openai.com/api/docs/guides/your-data . OpenAI può anche sottoporre a controllo le immagini caricate per individuare materiale pedopornografico e conservare un'immagine segnalata per la verifica, come descritto in tale politica.
+- **Google (Firebase e Google Cloud)** (hosting del backend, identificatore anonimo, registri di crediti e acquisti, controlli di integrità dell'app, archiviazione temporanea cifrata dei ritratti generati). Google agisce come nostro responsabile del trattamento ai sensi dei propri termini sul trattamento dei dati. Il nostro backend funziona negli Stati Uniti (Iowa).
+- **RevenueCat, Inc.** (Stati Uniti) (analisi di abbonamenti e acquisti). Il nostro server invia a RevenueCat il tuo identificatore anonimo e i registri degli acquisti firmati da Apple relativi ai tuoi acquisti (prodotto, date, ambiente, l'identificatore casuale dell'acquisto ed eventi di rinnovo, rimborso e annullamento). RevenueCat agisce come nostro responsabile del trattamento. Non vengono inviati foto, volti, nomi, indirizzi email né identificatori del dispositivo, e nell'App non c'è alcun software di RevenueCat. Quando usi Elimina tutti i miei dati, chiediamo anche a RevenueCat di eliminare il suo record relativo al tuo identificatore anonimo.
+- **Apple** (acquisti su App Store, App Attest, DeviceCheck e condivisione facoltativa dei tuoi ritratti tramite il foglio di condivisione di iOS, che avvii tu). Apple agisce come titolare del trattamento autonomo per i propri servizi.
+- **Autorità o successori**, quando richiesto dalla legge o per tutelare diritti e sicurezza, oppure nell'ambito di un trasferimento d'azienda, con preavviso dove richiesto.
+
+Non vendiamo le tue informazioni personali e non le condividiamo per pubblicità comportamentale cross-context.
+
+Quando condividi un ritratto con un'altra app (per esempio dal foglio di condivisione), a ciò che condividi si applica l'informativa sulla privacy di quell'app.
+
+## 5. Trasferimenti internazionali
+
+Abbiamo sede in Turchia e i nostri fornitori trattano i dati negli Stati Uniti ed eventualmente in altri paesi in cui operano. Se usi l'App nello Spazio economico europeo, nel Regno Unito, in Svizzera, in Turchia, in Brasile, in Corea del Sud, in Giappone o altrove, le tue informazioni vengono quindi trasferite in altri paesi, compresi paesi la cui legge sulla protezione dei dati può differire dalla tua.
+
+Adottiamo le garanzie che la tua legge richiede per tali trasferimenti, dove si applicano: una decisione di adeguatezza (per esempio l'EU-US Data Privacy Framework, dove il destinatario vi aderisce), le clausole contrattuali tipo (UE e addendum per il Regno Unito) nei termini sul trattamento dei dati dei nostri fornitori, altri meccanismi leciti riconosciuti dalla legge locale (vedi sezione 8) e il tuo consenso dove la legge lo consente. Limitiamo inoltre ciò che viene inviato a quanto necessario, usiamo connessioni cifrate e non inviamo al servizio di IA il tuo nome, il tuo indirizzo email né un vero identificatore di account. Puoi chiederci informazioni sulle garanzie (sezione 14).
+
+## 6. Per quanto tempo conserviamo le informazioni
+
+| Informazioni | Conservazione |
+| --- | --- |
+| Foto inviate per una creazione | Non conservate da noi. Tenute in memoria solo mentre la richiesta viene elaborata. Il servizio di IA può conservarle fino a 30 giorni nei registri di monitoraggio degli abusi (vedi sezione 4). |
+| Ritratti generati | Sul tuo telefono finché non li elimini o non usi Elimina tutti i miei dati. Una copia temporanea di consegna viene conservata, in forma cifrata, sul nostro server per al massimo 24 ore (eliminata quando il telefono conferma il salvataggio e da Elimina tutti i miei dati). |
+| Identificatore anonimo, saldo dei crediti, movimenti di crediti, registri degli acquisti (compresi quelli usati da Ripristina acquisti) | Finché non elimini i tuoi dati nell'App. I registri con saldo zero, senza abbonamento attivo e senza utilizzo dell'App da 24 mesi vengono eliminati automaticamente (controllo giornaliero), insieme al record di accesso anonimo. |
+| Record presso RevenueCat (identificatore anonimo, registri di acquisto e rinnovo) | Finché non elimini i tuoi dati nell'App o il record non viene eliminato automaticamente dopo 24 mesi di inattività (vedi sopra); chiediamo quindi a RevenueCat di eliminarlo. Le condizioni di RevenueCat regolano le eventuali copie di backup. |
+| Registri delle transazioni di acquisto dopo che elimini i tuoi dati nell'App o dopo l'eliminazione automatica | ID transazione, prodotto e date vengono conservati senza alcun collegamento con il tuo identificatore anonimo, per gestire i rimborsi, evitare di assegnare due volte i crediti e dove la legge lo richiede (per esempio per la contabilità). |
+| Indicatore di eliminazione | Dopo che elimini i tuoi dati conserviamo il tuo precedente identificatore anonimo casuale e l'ora dell'eliminazione, in modo che il record eliminato non possa essere ricreato. Non contiene altre informazioni. |
+| Registri tecnici | Un periodo limitato necessario per la sicurezza e il funzionamento (per esempio, Firebase Authentication registra gli indirizzi IP per alcune settimane). |
+| Email di assistenza | Per il tempo necessario ad aiutarti, poi eliminate. |
+
+## 7. I tuoi diritti e le tue scelte
+
+A seconda di dove vivi, hai tutti o alcuni di questi diritti: sapere se trattiamo i tuoi dati e ottenerne una copia (accesso); correggerli; eliminarli; limitare il trattamento; ricevere i tuoi dati in un formato portabile; opporti al trattamento basato sul legittimo interesse; revocare il consenso in qualsiasi momento; non essere sottoposto a decisioni basate unicamente su un trattamento automatizzato che producano effetti giuridici o incidano in modo analogo significativamente sulla tua persona (non ne prendiamo); e presentare reclamo a un'autorità di protezione dei dati.
+
+Come esercitarli:
+
+- **Elimina tutti i miei dati (nell'App).** Profilo > Elimina tutti i miei dati rimuove i ritratti, le miniature dei selfie e il consenso all'IA conservati sul tuo telefono e ci chiede di eliminare il record lato server collegato al tuo identificatore anonimo (saldo dei crediti e registri degli acquisti) e chiede a RevenueCat di eliminare il suo record relativo a quell'identificatore. I crediti non utilizzati vengono persi quando lo fai. Eliminare soltanto l'App non elimina il record lato server.
+- **Revoca il consenso all'IA.** Profilo > Revoca il consenso all'IA. Le foto non verranno più inviate finché non darai di nuovo il consenso.
+- **Accesso, portabilità, rettifica, limitazione, opposizione.** Scrivi a {{SUPPORT_EMAIL}} e indica l'ID assistenza mostrato nella scheda Profilo, così possiamo trovare il tuo record. Senza di esso non possiamo cercare i tuoi dati, perché l'App è anonima. Ti invieremo il record collegato al tuo ID assistenza (saldo dei crediti, movimenti di crediti e registri degli acquisti) in un formato di uso comune e leggibile da dispositivi automatici. I tuoi ritratti sono già sul tuo telefono.
+- **Accesso alle foto.** Puoi modificare le autorizzazioni per la fotocamera e per le foto nelle Impostazioni di iOS. L'App usa il selettore di foto di sistema, che le dà accesso solo alle foto che selezioni, e salva nella tua libreria solo quando tocchi Salva.
+- **Gli abbonamenti** si gestiscono o si annullano nelle impostazioni del tuo Apple Account (vedi i nostri Termini di utilizzo).
+
+Rispondiamo entro un mese (GDPR e UK GDPR; per richieste complesse possiamo prorogare di ulteriori due mesi, informandoti), o entro il termine previsto dalla legge che ti si applica. Possiamo chiederti di confermare che una richiesta proviene dal titolare dell'ID assistenza. Puoi anche presentare reclamo alla tua autorità locale per la protezione dei dati (nello SEE, l'autorità del paese in cui vivi o lavori; in Italia il Garante per la protezione dei dati personali; nel Regno Unito, l'Information Commissioner's Office; in Turchia, l'Autorità per la protezione dei dati personali (Kişisel Verileri Koruma Kurumu); in Brasile, l'ANPD; in Corea del Sud, la PIPC; in Giappone, la PPC). Ti saremmo grati se ci dessi prima la possibilità di risolvere il problema.
+
+## 8. Informazioni per aree specifiche
+
+### 8.1 Spazio economico europeo, Regno Unito e Svizzera
+
+{{DEVELOPER_NAME}} è il titolare del trattamento. Le basi giuridiche sono nella sezione 3, i trasferimenti nella sezione 5, la conservazione nella sezione 6 e i tuoi diritti nella sezione 7, compresi i diritti di opposizione e di revoca del consenso. Non abbiamo nominato un responsabile della protezione dei dati; le domande sulla privacy vanno all'indirizzo indicato nella sezione 14. Se la legge del tuo paese fissa per il consenso al trattamento dei dati personali un'età superiore a 13 anni (per esempio da 14 a 16 anni in diversi paesi europei), vedi la sezione 9.
+
+### 8.2 Turchia (Legge n. 6698, KVKK)
+
+{{DEVELOPER_NAME}} è il titolare del trattamento. Trattiamo i dati personali per le finalità indicate nella sezione 3, sulla base del tuo consenso esplicito (invio delle foto al servizio di IA), della conclusione e dell'esecuzione di un contratto, dei nostri legittimi interessi (prevenzione delle frodi e sicurezza) e degli obblighi di legge. Ai sensi dell'articolo 11 della Legge n. 6698 puoi chiedere se i tuoi dati sono trattati, richiedere informazioni, conoscere la finalità e se vengono usati in modo conforme, conoscere i terzi ai quali sono trasferiti in Turchia o all'estero, chiederne la rettifica o l'eliminazione, chiedere che tali operazioni siano comunicate ai terzi, opporti a risultati sfavorevoli nei tuoi confronti e chiedere il risarcimento dei danni. Rivolgiti a noi all'indirizzo indicato nella sezione 14, con il tuo ID assistenza; rispondiamo al più tardi entro trenta giorni. Se non sei soddisfatto, puoi presentare reclamo al Comitato per la protezione dei dati personali (Kişisel Verileri Koruma Kurulu, KVKK). I dati vengono trasferiti all'estero (sezione 5) alle condizioni dell'articolo 9 della Legge n. 6698.
+
+### 8.3 Brasile (LGPD)
+
+{{DEVELOPER_NAME}} è il titolare del trattamento e il referente per gli interessati è l'indirizzo indicato nella sezione 14. Le nostre basi giuridiche ai sensi dell'articolo 7 della Legge n. 13.709/2018 (Lei Geral de Proteção de Dados) sono il consenso, l'esecuzione di un contratto, l'esercizio regolare di diritti e i legittimi interessi. Hai i diritti previsti dall'articolo 18 (conferma dell'esistenza del trattamento, accesso, rettifica, anonimizzazione, blocco o eliminazione, portabilità, informazioni sulla condivisione, informazioni sulle conseguenze del rifiuto del consenso e revoca del consenso) e puoi presentare istanza all'ANPD (Autoridade Nacional de Proteção de Dados). I trasferimenti internazionali avvengono come indicato nella sezione 5 e nell'articolo 33 della LGPD.
+
+### 8.4 Corea del Sud (PIPA)
+
+Trattiamo le informazioni personali di cui alla sezione 2 solo per le finalità della sezione 3 e le conserviamo per i periodi della sezione 6. Non forniamo informazioni personali a terzi se non come descritto nella sezione 4. Affidiamo a OpenAI, Google e RevenueCat il trattamento descritto nella sezione 4 e li controlliamo tramite le condizioni contrattuali. Le tue foto e le relative informazioni sono trasferite all'estero come segue, con il consenso che dai nell'App:
+
+| Destinatario e paese | Elementi | Finalità | Quando e come | Conservazione |
+| --- | --- | --- | --- | --- |
+| OpenAI, Stati Uniti | Foto, look selezionato, identificatore pseudonimo | Generare il ritratto | Ogni volta che crei un ritratto, tramite rete cifrata | Fino a 30 giorni nei registri di monitoraggio degli abusi |
+| Google (Firebase e Google Cloud), Stati Uniti | Identificatore anonimo, registri di crediti e acquisti, copia temporanea del ritratto generato | Hosting, registro dei crediti, consegna del ritratto | Ogni volta che usi l'App, tramite rete cifrata | Come nella sezione 6 |
+| RevenueCat, Stati Uniti | Identificatore anonimo, registri di acquisti e abbonamenti | Analisi degli abbonamenti | A ogni acquisto, rinnovo o rimborso elaborato, tramite rete cifrata | Come nella sezione 6 |
+
+Puoi esercitare i diritti di accesso, rettifica, eliminazione, sospensione del trattamento e revoca del consenso previsti dalla PIPA (Personal Information Protection Act, la legge sudcoreana sulla protezione delle informazioni personali) contattandoci all'indirizzo indicato nella sezione 14; puoi rifiutare il consenso, ma in tal caso l'App non può creare ritratti. Il responsabile della privacy è {{DEVELOPER_NAME}} ({{SUPPORT_EMAIL}}). Puoi anche rivolgerti alla Personal Information Protection Commission o al KISA Privacy Center (118).
+
+### 8.5 Giappone (APPI)
+
+{{DEVELOPER_NAME}} è l'operatore commerciale che tratta le informazioni personali. Usiamo le informazioni personali solo per le finalità della sezione 3. Quando dai il consenso nell'App, le tue foto e le relative informazioni sono fornite a imprese di un paese estero: OpenAI e Google, negli Stati Uniti e negli altri paesi in cui operano. Il tuo identificatore anonimo e i registri degli acquisti sono forniti anche a RevenueCat, negli Stati Uniti. Gli Stati Uniti non hanno un'unica legge generale sulla protezione delle informazioni personali come l'APPI (la legge giapponese sulla protezione delle informazioni personali, 個人情報の保護に関する法律); i nostri fornitori trattano i dati in base ai propri impegni e alle condizioni contrattuali descritti nella sezione 4 (nessun addestramento sui dati dell'API, conservazione limitata, cifratura). Puoi richiedere la comunicazione, la rettifica, l'eliminazione e la cessazione dell'utilizzo dei dati personali conservati, nonché un registro delle comunicazioni a terzi, contattandoci all'indirizzo indicato nella sezione 14.
+
+### 8.6 Stati Uniti
+
+A seconda di dove vivi (per esempio California, Colorado, Connecticut, Virginia, Texas, Oregon e altri stati con leggi sulla privacy dei consumatori), puoi avere il diritto di sapere quali informazioni personali deteniamo, di accedervi, di correggerle, di eliminarle, di ricevere una copia portabile e di impugnare la nostra decisione. Non vendiamo informazioni personali, non le condividiamo per pubblicità mirata e non le usiamo per una profilazione che produca effetti giuridici o similmente significativi. Non trattiamo le foto per identificare in modo univoco una persona. Per esercitare questi diritti, usa Elimina tutti i miei dati nell'App oppure scrivi a {{SUPPORT_EMAIL}}; risponderemo entro 45 giorni (possiamo prorogare una sola volta dove la legge lo consente) e non ti discrimineremo per aver esercitato i tuoi diritti. Puoi avvalerti di un rappresentante autorizzato; possiamo chiederti l'ID assistenza per verificare la richiesta. Se respingiamo una richiesta puoi impugnare la decisione rispondendo alla nostra email e puoi rivolgerti al procuratore generale (attorney general) del tuo stato.
+
+Le richieste ai sensi della legge californiana «Shine the Light» e quelle del Nevada possono essere inviate allo stesso indirizzo. Non rispondiamo ai segnali «Do Not Track» perché non ti tracciamo.
+
+### 8.7 Altri paesi
+
+Se la legge del tuo paese ti riconosce diritti ulteriori sui tuoi dati personali, li rispetteremo nella misura in cui si applicano a noi. Scrivi all'indirizzo indicato nella sezione 14.
+
+## 9. Minori
+
+L'App non è rivolta ai minori e non raccogliamo consapevolmente informazioni personali di minori di 13 anni. Non usare l'App e non caricare foto di minori di 13 anni. Se la legge del tuo paese fissa un'età minima più alta per il consenso al trattamento dei dati personali (per esempio 14 anni in Corea del Sud e da 14 a 16 anni in diversi paesi europei), devi avere almeno quell'età, o il consenso di un genitore o tutore, per usare l'App. Se ritieni che ci siano state inviate informazioni di un minore, contatta {{SUPPORT_EMAIL}} e le elimineremo.
+
+## 10. Trattamento automatizzato e dati biometrici
+
+I ritratti sono creati da un modello di IA a partire dalla tua foto e da un look scelto da noi. Non prendiamo alcuna decisione su di te che produca effetti giuridici o similmente significativi e non ti profiliamo. Gli unici controlli automatizzati sono quelli contro frodi e abusi (per esempio limiti per dispositivo e filtri di sicurezza dei contenuti); se una creazione viene rifiutata, puoi riprovare con un'altra foto o contattarci.
+
+Non usiamo l'identificazione biometrica. Il rilevamento del volto viene eseguito solo sul tuo dispositivo, per verificare che sia presente un volto e contare i volti. Non creiamo né conserviamo modelli del volto, non confrontiamo i volti e non usiamo i volti per identificare nessuno.
+
+## 11. Foto di altre persone
+
+Aggiungi solo foto di persone che hanno dato il consenso. Le foto di altre persone vengono inviate al servizio di IA proprio come le tue. Sei tu responsabile di avere la loro autorizzazione.
+
+## 12. Sicurezza
+
+I dati viaggiano tra l'App, il nostro backend e il servizio di IA tramite connessioni cifrate (HTTPS/TLS). I nostri fornitori cloud cifrano i dati archiviati. La chiave API di OpenAI è custodita sul nostro server e non si trova mai all'interno dell'App. Nessun sistema è perfettamente sicuro, quindi non possiamo garantire una sicurezza assoluta. Se una violazione riguarda i tuoi dati personali, informeremo te e le autorità come richiesto dalla legge.
+
+## 13. Modifiche e questo sito web
+
+Se modifichiamo in modo rilevante questa informativa, aggiorneremo la data indicata sopra e, se la modifica incide su ciò che viene inviato al servizio di IA, ti chiederemo di nuovo il consenso nell'App. Se questa informativa ti viene mostrata nella tua lingua, la traduzione è fornita per comodità; in caso di discrepanza tra le versioni prevale la versione inglese.
+
+Questo sito web è statico. Non imposta cookie e non usa analisi né risorse esterne. È ospitato su GitHub Pages e GitHub può trattare dati tecnici come il tuo indirizzo IP quando il tuo browser carica una pagina.
+
+## 14. Contatti
+
+{{DEVELOPER_NAME}}
+{{SUPPORT_EMAIL}}
+{{SITE_URL}}/privacy.html
