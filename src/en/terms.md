@@ -40,7 +40,7 @@ Results are created by AI and may be unpredictable. They may look different from
 
 Do not present AI results as authentic photographs where that could mislead others, and consider labeling them as AI-generated when you share them. Do not use the App for any decision about a person. Because outputs are generated, we cannot guarantee that two users will not receive similar results, and you may not be able to claim exclusive rights to them.
 
-To the extent allowed by law and by our AI providers' terms, you may use your results for personal, non-commercial purposes, including sharing them on social media. Commercial use is not permitted without our written permission and the permission of the people in the image.
+Results include the portraits, posters and before/after videos you make in the App. We do not claim ownership of your results. To the extent allowed by law and by our AI providers' terms, we grant you a personal, non-commercial licence to use them, including sharing them on social media. Commercial use is not permitted without our written permission and the permission of the people in the image.
 
 ## 5. Credits, subscriptions, and purchases
 
@@ -51,7 +51,7 @@ All purchases are made through Apple's In-App Purchase and are subject to Apple'
 - 1 credit for a group portrait from one group photo;
 - 2 credits for a group portrait from separate selfies.
 
-Your first portrait is free, once per device. If a creation fails or is declined, the credits used for it are returned automatically.
+Your first portrait is free, once per device. Your free first credit covers one portrait from one photo. If a creation fails or is declined, the credits used for it are returned automatically.
 
 **5.2 Weekly subscriptions (auto-renewing).**
 - {{APP_NAME}} Starter: US$6.99 per week, includes 40 credits each week.
@@ -69,7 +69,7 @@ Your first portrait is free, once per device. If a creation fails or is declined
 
 **5.5 Refunds.** Apple processes all payments and refunds. To request a refund, go to https://reportaproblem.apple.com or contact Apple Support. We cannot issue refunds for App Store purchases. Mandatory consumer rights you have under the law of your country (for example any right to withdraw from a digital purchase) are not affected; Apple handles them under its terms. If Apple refunds a purchase, we may remove the credits it granted (including any already used, to the extent allowed by law, which may leave your balance at zero).
 
-**5.6 Unused credits and deleted data.** If you use Delete all my data, the credit balance linked to your anonymous identifier is deleted. Your unused credit pack credits and the remaining weekly credits of an active subscription are not forfeited: only their number is kept with the anonymized purchase record, and you can restore them once with Restore Purchases on the same Apple Account. If Apple refunds a pack, the unused credits of that pack can no longer be restored.
+**5.6 Unused credits and deleted data.** If you use Delete all my data, the credit balance linked to your anonymous identifier is deleted. Your unused credit pack credits and the remaining weekly credits of an active subscription are not forfeited: only their number is kept with the de-identified purchase record, and you can restore them once with Restore Purchases on the same Apple Account. If Apple refunds a pack, the unused credits of that pack can no longer be restored. Restore returns your unused paid credits; the free first credit is not restored, so in rare cases one paid credit may be missing.
 
 ## 6. Our rights and ownership
 

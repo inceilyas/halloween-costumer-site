@@ -40,7 +40,7 @@ Ergebnisse werden von einer KI erstellt und können unvorhersehbar sein. Sie kö
 
 Gib KI-Ergebnisse nicht als echte Fotos aus, wo das andere irreführen könnte, und erwäge, sie beim Teilen als KI-generiert zu kennzeichnen. Nutze die App nicht für Entscheidungen über eine Person. Da die Ergebnisse generiert werden, können wir nicht garantieren, dass nicht mehrere Nutzer ähnliche Ergebnisse erhalten, und möglicherweise kannst du keine ausschließlichen Rechte daran geltend machen.
 
-Soweit das Gesetz und die Bedingungen unserer KI-Anbieter es erlauben, darfst du deine Ergebnisse für persönliche, nichtkommerzielle Zwecke verwenden, auch um sie in sozialen Medien zu teilen. Eine kommerzielle Nutzung ist ohne unsere schriftliche Erlaubnis und die Erlaubnis der abgebildeten Personen nicht gestattet.
+Zu den Ergebnissen gehören die Porträts, Poster und Vorher-Nachher-Videos, die du in der App erstellst. Wir beanspruchen kein Eigentum an deinen Ergebnissen. Soweit das Gesetz und die Bedingungen unserer KI-Anbieter es erlauben, räumen wir dir eine persönliche, nichtkommerzielle Lizenz zur Nutzung ein, auch um sie in sozialen Medien zu teilen. Eine kommerzielle Nutzung ist ohne unsere schriftliche Erlaubnis und die Erlaubnis der abgebildeten Personen nicht gestattet.
 
 ## 5. Credits, Abos und Käufe
 
@@ -51,7 +51,7 @@ Alle Käufe erfolgen über den In-App-Kauf von Apple und unterliegen den Bedingu
 - 1 Credit für ein Gruppenporträt aus einem Gruppenfoto;
 - 2 Credits für ein Gruppenporträt aus einzelnen Selfies.
 
-Dein erstes Porträt ist kostenlos, einmal pro Gerät. Schlägt eine Erstellung fehl oder wird sie abgelehnt, werden die dafür verbrauchten Credits automatisch zurückgegeben.
+Dein erstes Porträt ist kostenlos, einmal pro Gerät. Dein kostenloses erstes Credit deckt ein Porträt aus einem Foto ab. Schlägt eine Erstellung fehl oder wird sie abgelehnt, werden die dafür verbrauchten Credits automatisch zurückgegeben.
 
 **5.2 Wochenabos (automatisch verlängernd).**
 - {{APP_NAME}} Starter: US$6.99 pro Woche, enthält 40 Credits pro Woche.
@@ -69,7 +69,7 @@ Dein erstes Porträt ist kostenlos, einmal pro Gerät. Schlägt eine Erstellung 
 
 **5.5 Erstattungen.** Apple wickelt alle Zahlungen und Erstattungen ab. Um eine Erstattung zu beantragen, gehe zu https://reportaproblem.apple.com oder wende dich an den Apple Support. Wir können Käufe im App Store nicht erstatten. Zwingende Verbraucherrechte, die dir nach dem Recht deines Landes zustehen (zum Beispiel ein Widerrufsrecht bei einem digitalen Kauf), bleiben unberührt; Apple behandelt sie nach seinen Bedingungen. Erstattet Apple einen Kauf, können wir die dadurch gutgeschriebenen Credits entfernen (auch bereits verbrauchte, soweit das Gesetz es erlaubt, wodurch dein Guthaben bei null liegen kann).
 
-**5.6 Nicht genutzte Credits und gelöschte Daten.** Wenn du „Alle meine Daten löschen“ verwendest, wird das mit deiner anonymen Kennung verknüpfte Credit-Guthaben gelöscht. Die nicht genutzten Credits deiner Credit-Pakete und die verbleibenden Wochen-Credits eines aktiven Abos verfallen nicht: Nur ihre Anzahl wird mit dem anonymisierten Kaufdatensatz aufbewahrt, und du kannst sie mit „Käufe wiederherstellen“ mit demselben Apple Account einmal wiederherstellen. Erstattet Apple ein Paket, können die nicht genutzten Credits dieses Pakets nicht mehr wiederhergestellt werden.
+**5.6 Nicht genutzte Credits und gelöschte Daten.** Wenn du „Alle meine Daten löschen“ verwendest, wird das mit deiner anonymen Kennung verknüpfte Credit-Guthaben gelöscht. Die nicht genutzten Credits deiner Credit-Pakete und die verbleibenden Wochen-Credits eines aktiven Abos verfallen nicht: Nur ihre Anzahl wird mit dem pseudonymisierten Kaufdatensatz aufbewahrt, und du kannst sie mit „Käufe wiederherstellen“ mit demselben Apple Account einmal wiederherstellen. Erstattet Apple ein Paket, können die nicht genutzten Credits dieses Pakets nicht mehr wiederhergestellt werden. „Käufe wiederherstellen“ gibt deine nicht genutzten bezahlten Credits zurück; das kostenlose erste Credit wird nicht wiederhergestellt, sodass in seltenen Fällen ein bezahltes Credit fehlen kann.
 
 ## 6. Unsere Rechte und Eigentum
 

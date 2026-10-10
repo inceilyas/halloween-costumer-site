@@ -40,7 +40,7 @@ Les résultats sont créés par l'IA et peuvent être imprévisibles. Ils peuven
 
 Ne présente pas les résultats de l'IA comme des photographies authentiques lorsque cela pourrait induire d'autres personnes en erreur, et pense à indiquer qu'ils ont été générés par l'IA lorsque tu les partages. N'utilise pas l'App pour prendre une décision concernant une personne. Comme les résultats sont générés, nous ne pouvons pas garantir que deux utilisateurs ne recevront pas des résultats similaires, et il se peut que tu ne puisses pas revendiquer de droits exclusifs sur eux.
 
-Dans la mesure permise par la loi et par les conditions de nos prestataires d'IA, tu peux utiliser tes résultats à des fins personnelles et non commerciales, y compris les partager sur les réseaux sociaux. Tout usage commercial est interdit sans notre autorisation écrite et celle des personnes figurant sur l'image.
+Les résultats comprennent les portraits, les affiches et les vidéos avant/après que tu crées dans l'App. Nous ne revendiquons pas la propriété de tes résultats. Dans la mesure permise par la loi et par les conditions de nos prestataires d'IA, nous t'accordons une licence personnelle et non commerciale pour les utiliser, y compris pour les partager sur les réseaux sociaux. Tout usage commercial est interdit sans notre autorisation écrite et celle des personnes figurant sur l'image.
 
 ## 5. Crédits, abonnements et achats
 
@@ -51,7 +51,7 @@ Tous les achats s'effectuent via les achats intégrés d'Apple et sont soumis au
 - 1 crédit pour un portrait de groupe à partir d'une photo de groupe ;
 - 2 crédits pour un portrait de groupe à partir de selfies séparés.
 
-Ton premier portrait est offert, une fois par appareil. Si une création échoue ou est refusée, les crédits utilisés te sont restitués automatiquement.
+Ton premier portrait est offert, une fois par appareil. Ton premier crédit offert couvre un portrait à partir d'une photo. Si une création échoue ou est refusée, les crédits utilisés te sont restitués automatiquement.
 
 **5.2 Abonnements hebdomadaires (à renouvellement automatique).**
 - {{APP_NAME}} Starter : US$6,99 par semaine, comprend 40 crédits chaque semaine.
@@ -69,7 +69,7 @@ Ton premier portrait est offert, une fois par appareil. Si une création échoue
 
 **5.5 Remboursements.** Apple traite tous les paiements et remboursements. Pour demander un remboursement, va sur https://reportaproblem.apple.com ou contacte l'assistance Apple. Nous ne pouvons pas effectuer de remboursements pour les achats sur l'App Store. Les droits impératifs dont tu disposes en vertu de la loi de ton pays (par exemple tout droit de rétractation d'un achat numérique) ne sont pas affectés ; Apple les traite selon ses conditions. Si Apple rembourse un achat, nous pouvons retirer les crédits qu'il avait accordés (y compris ceux déjà utilisés, dans la mesure permise par la loi, ce qui peut ramener ton solde à zéro).
 
-**5.6 Crédits non utilisés et données supprimées.** Si tu utilises Supprimer toutes mes données, le solde de crédits lié à ton identifiant anonyme est supprimé. Les crédits non utilisés de tes packs de crédits et les crédits hebdomadaires restants d'un abonnement actif ne sont pas perdus : seul leur nombre est conservé avec l'enregistrement d'achat anonymisé, et tu peux les restaurer une seule fois avec Restaurer les achats sur le même compte Apple. Si Apple rembourse un pack, les crédits non utilisés de ce pack ne peuvent plus être restaurés.
+**5.6 Crédits non utilisés et données supprimées.** Si tu utilises Supprimer toutes mes données, le solde de crédits lié à ton identifiant anonyme est supprimé. Les crédits non utilisés de tes packs de crédits et les crédits hebdomadaires restants d'un abonnement actif ne sont pas perdus : seul leur nombre est conservé avec l'enregistrement d'achat désidentifié, et tu peux les restaurer une seule fois avec Restaurer les achats sur le même compte Apple. Si Apple rembourse un pack, les crédits non utilisés de ce pack ne peuvent plus être restaurés. Restaurer les achats te rend tes crédits payants non utilisés ; le premier crédit offert n'est pas restauré, de sorte que, dans de rares cas, il peut manquer un crédit payant.
 
 ## 6. Nos droits et la propriété
 

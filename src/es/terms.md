@@ -40,7 +40,7 @@ Los resultados los crea una IA y pueden ser impredecibles. Pueden ser distintos 
 
 No presentes los resultados de la IA como fotografías auténticas cuando eso pueda inducir a error a otras personas, y considera indicar que han sido generados con IA cuando los compartas. No uses la App para ninguna decisión sobre una persona. Como los resultados se generan, no podemos garantizar que dos usuarios no reciban resultados parecidos, y es posible que no puedas reclamar derechos exclusivos sobre ellos.
 
-En la medida en que lo permitan la ley y las condiciones de nuestros proveedores de IA, puedes usar tus resultados con fines personales y no comerciales, incluido compartirlos en redes sociales. No se permite el uso comercial sin nuestro permiso por escrito y el permiso de las personas que aparecen en la imagen.
+Los resultados incluyen los retratos, pósteres y videos antes/después que creas en la App. No reclamamos la propiedad de tus resultados. En la medida en que lo permitan la ley y las condiciones de nuestros proveedores de IA, te concedemos una licencia personal y no comercial para usarlos, incluido compartirlos en redes sociales. No se permite el uso comercial sin nuestro permiso por escrito y el permiso de las personas que aparecen en la imagen.
 
 ## 5. Créditos, suscripciones y compras
 
@@ -51,7 +51,7 @@ Todas las compras se realizan mediante las compras dentro de la app de Apple y e
 - 1 crédito por un retrato de grupo a partir de una foto de grupo;
 - 2 créditos por un retrato de grupo a partir de selfies separados.
 
-Tu primer retrato es gratis, una vez por dispositivo. Si una creación falla o se rechaza, los créditos usados en ella se devuelven automáticamente.
+Tu primer retrato es gratis, una vez por dispositivo. Tu primer crédito gratuito cubre un retrato a partir de una foto. Si una creación falla o se rechaza, los créditos usados en ella se devuelven automáticamente.
 
 **5.2 Suscripciones semanales (con renovación automática).**
 - {{APP_NAME}} Starter: US$6.99 por semana, incluye 40 créditos cada semana.
@@ -69,7 +69,7 @@ Tu primer retrato es gratis, una vez por dispositivo. Si una creación falla o s
 
 **5.5 Reembolsos.** Apple procesa todos los pagos y reembolsos. Para solicitar un reembolso, ve a https://reportaproblem.apple.com o ponte en contacto con el Soporte de Apple. No podemos emitir reembolsos de compras del App Store. Los derechos imperativos que te reconozca como consumidor la ley de tu país (por ejemplo, cualquier derecho de desistimiento de una compra digital) no se ven afectados; Apple los gestiona conforme a sus condiciones. Si Apple reembolsa una compra, podemos retirar los créditos que concedió (incluidos los que ya se hayan usado, en la medida en que lo permita la ley, lo que puede dejar tu saldo en cero).
 
-**5.6 Créditos no usados y datos eliminados.** Si usas Eliminar todos mis datos, el saldo de créditos vinculado a tu identificador anónimo se elimina. Los créditos no usados de tus paquetes de créditos y los créditos semanales restantes de una suscripción activa no se pierden: solo se conserva su número junto con el registro de compra anonimizado, y puedes restaurarlos una sola vez con Restaurar compras con la misma cuenta de Apple. Si Apple reembolsa un paquete, los créditos no usados de ese paquete ya no se pueden restaurar.
+**5.6 Créditos no usados y datos eliminados.** Si usas Eliminar todos mis datos, el saldo de créditos vinculado a tu identificador anónimo se elimina. Los créditos no usados de tus paquetes de créditos y los créditos semanales restantes de una suscripción activa no se pierden: solo se conserva su número junto con el registro de compra desidentificado, y puedes restaurarlos una sola vez con Restaurar compras con la misma cuenta de Apple. Si Apple reembolsa un paquete, los créditos no usados de ese paquete ya no se pueden restaurar. Restaurar devuelve tus créditos de pago no usados; el primer crédito gratuito no se restaura, por lo que en casos raros puede faltar un crédito de pago.
 
 ## 6. Nuestros derechos y la propiedad
 

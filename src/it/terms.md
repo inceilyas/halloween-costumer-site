@@ -40,7 +40,7 @@ I risultati sono creati dall'IA e possono essere imprevedibili. Possono apparire
 
 Non presentare i risultati dell'IA come fotografie autentiche quando ciò potrebbe indurre in errore altri, e valuta di indicare che sono stati generati dall'IA quando li condividi. Non usare l'App per alcuna decisione riguardante una persona. Poiché i risultati sono generati, non possiamo garantire che due utenti non ricevano risultati simili, e potresti non poter rivendicare diritti esclusivi su di essi.
 
-Nella misura consentita dalla legge e dai termini dei nostri fornitori di IA, puoi usare i tuoi risultati per scopi personali e non commerciali, compresa la condivisione sui social media. L'uso commerciale non è consentito senza la nostra autorizzazione scritta e quella delle persone presenti nell'immagine.
+I risultati comprendono i ritratti, i poster e i video prima/dopo che crei nell'App. Non rivendichiamo la proprietà dei tuoi risultati. Nella misura consentita dalla legge e dai termini dei nostri fornitori di IA, ti concediamo una licenza personale e non commerciale per usarli, compresa la condivisione sui social media. L'uso commerciale non è consentito senza la nostra autorizzazione scritta e quella delle persone presenti nell'immagine.
 
 ## 5. Crediti, abbonamenti e acquisti
 
@@ -51,7 +51,7 @@ Tutti gli acquisti avvengono tramite gli acquisti in-app di Apple e sono soggett
 - 1 credito per un ritratto di gruppo da una foto di gruppo;
 - 2 crediti per un ritratto di gruppo da selfie separati.
 
-Il tuo primo ritratto è gratis, una sola volta per dispositivo. Se una creazione non riesce o viene rifiutata, i crediti utilizzati ti vengono restituiti automaticamente.
+Il tuo primo ritratto è gratis, una sola volta per dispositivo. Il tuo primo credito gratuito copre un ritratto da una foto. Se una creazione non riesce o viene rifiutata, i crediti utilizzati ti vengono restituiti automaticamente.
 
 **5.2 Abbonamenti settimanali (a rinnovo automatico).**
 - {{APP_NAME}} Starter: US$6.99 a settimana, include 40 crediti ogni settimana.
@@ -69,7 +69,7 @@ Il tuo primo ritratto è gratis, una sola volta per dispositivo. Se una creazion
 
 **5.5 Rimborsi.** Apple gestisce tutti i pagamenti e i rimborsi. Per richiedere un rimborso, vai su https://reportaproblem.apple.com oppure contatta l'assistenza Apple. Non possiamo emettere rimborsi per gli acquisti su App Store. I diritti inderogabili che hai in base alla legge del tuo paese (per esempio l'eventuale diritto di recesso da un acquisto digitale) non sono pregiudicati; Apple li gestisce secondo i propri termini. Se Apple rimborsa un acquisto, possiamo rimuovere i crediti che ha concesso (compresi quelli già utilizzati, nella misura consentita dalla legge, il che può portare il tuo saldo a zero).
 
-**5.6 Crediti non utilizzati e dati eliminati.** Se usi Elimina tutti i miei dati, il saldo dei crediti collegato al tuo identificatore anonimo viene eliminato. I crediti non utilizzati dei tuoi pacchetti di crediti e i crediti settimanali residui di un abbonamento attivo non vanno persi: viene conservato solo il loro numero con il record di acquisto anonimizzato e puoi ripristinarli una sola volta con Ripristina acquisti con lo stesso Apple Account. Se Apple rimborsa un pacchetto, i crediti non utilizzati di quel pacchetto non possono più essere ripristinati.
+**5.6 Crediti non utilizzati e dati eliminati.** Se usi Elimina tutti i miei dati, il saldo dei crediti collegato al tuo identificatore anonimo viene eliminato. I crediti non utilizzati dei tuoi pacchetti di crediti e i crediti settimanali residui di un abbonamento attivo non vanno persi: viene conservato solo il loro numero con il record di acquisto deidentificato e puoi ripristinarli una sola volta con Ripristina acquisti con lo stesso Apple Account. Se Apple rimborsa un pacchetto, i crediti non utilizzati di quel pacchetto non possono più essere ripristinati. Ripristina acquisti restituisce i tuoi crediti a pagamento non utilizzati; il primo credito gratuito non viene ripristinato, quindi in rari casi potrebbe mancare un credito a pagamento.
 
 ## 6. I nostri diritti e la proprietà
 

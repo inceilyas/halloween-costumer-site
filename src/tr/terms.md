@@ -40,7 +40,7 @@ Sonuçlar yapay zeka tarafından oluşturulur ve öngörülemez olabilir. Sağla
 
 Yapay zeka sonuçlarını başkalarını yanıltabilecek şekilde gerçek fotoğraf gibi sunma ve paylaşırken yapay zekayla üretildiklerini belirtmeyi düşün. Uygulamayı bir kişi hakkında hiçbir karar için kullanma. Çıktılar üretildiği için iki kullanıcının benzer sonuçlar almayacağını garanti edemeyiz ve bunlar üzerinde münhasır hak iddia edemeyebilirsin.
 
-Kanunun ve yapay zeka sağlayıcılarımızın şartlarının izin verdiği ölçüde, sonuçlarını sosyal medyada paylaşmak dahil kişisel, ticari olmayan amaçlarla kullanabilirsin. Yazılı iznimiz ve görseldeki kişilerin izni olmadan ticari kullanıma izin verilmez.
+Sonuçlar, Uygulamada oluşturduğun portreleri, posterleri ve önce/sonra videolarını kapsar. Sonuçların üzerinde mülkiyet iddia etmeyiz. Kanunun ve yapay zeka sağlayıcılarımızın şartlarının izin verdiği ölçüde, sana bunları sosyal medyada paylaşmak dahil kişisel, ticari olmayan amaçlarla kullanman için bir lisans veririz. Yazılı iznimiz ve görseldeki kişilerin izni olmadan ticari kullanıma izin verilmez.
 
 ## 5. Krediler, abonelikler ve satın alımlar
 
@@ -51,7 +51,7 @@ Tüm satın alımlar Apple'ın Uygulama İçi Satın Alma sistemiyle yapılır v
 - Tek bir grup fotoğrafından grup portresi için 1 kredi;
 - Ayrı selfie'lerden grup portresi için 2 kredi.
 
-İlk portren ücretsizdir; cihaz başına bir kez. Bir oluşturma başarısız olursa ya da reddedilirse, o oluşturma için kullanılan krediler otomatik olarak iade edilir.
+İlk portren ücretsizdir; cihaz başına bir kez. Ücretsiz ilk kredin, bir fotoğraftan bir portreyi kapsar. Bir oluşturma başarısız olursa ya da reddedilirse, o oluşturma için kullanılan krediler otomatik olarak iade edilir.
 
 **5.2 Haftalık abonelikler (otomatik yenilenen).**
 - {{APP_NAME}} Starter: haftada US$6.99, her hafta 40 kredi içerir.
@@ -69,7 +69,7 @@ Tüm satın alımlar Apple'ın Uygulama İçi Satın Alma sistemiyle yapılır v
 
 **5.5 İadeler.** Tüm ödemeleri ve iadeleri Apple işler. İade talep etmek için https://reportaproblem.apple.com adresine git ya da Apple Destek ile iletişime geç. App Store satın alımları için iade yapamayız. Ülkenin kanunu uyarınca sahip olduğun zorunlu tüketici hakları (örneğin dijital bir satın alımdan cayma hakkı) etkilenmez; Apple bunları kendi şartları kapsamında ele alır. Apple bir satın alımı iade ederse, onun verdiği kredileri (kanunun izin verdiği ölçüde, zaten kullanılmış olanlar dahil; bu bakiyeni sıfıra düşürebilir) kaldırabiliriz.
 
-**5.6 Kullanılmayan krediler ve silinen veriler.** Tüm verilerimi sil'i kullanırsan, anonim tanımlayıcına bağlı kredi bakiyesi silinir. Kullanılmamış kredi paketi kredilerin ve etkin bir aboneliğin kalan haftalık kredilerin kaybolmaz: yalnızca sayıları anonimleştirilmiş satın alım kaydıyla birlikte saklanır ve bunları aynı Apple Hesabında Satın Alımları Geri Yükle ile bir kez geri yükleyebilirsin. Apple bir paketi iade ederse, o paketin kullanılmamış kredileri artık geri yüklenemez.
+**5.6 Kullanılmayan krediler ve silinen veriler.** Tüm verilerimi sil'i kullanırsan, anonim tanımlayıcına bağlı kredi bakiyesi silinir. Kullanılmamış kredi paketi kredilerin ve etkin bir aboneliğin kalan haftalık kredilerin kaybolmaz: yalnızca sayıları kimliksizleştirilmiş satın alım kaydıyla birlikte saklanır ve bunları aynı Apple Hesabında Satın Alımları Geri Yükle ile bir kez geri yükleyebilirsin. Apple bir paketi iade ederse, o paketin kullanılmamış kredileri artık geri yüklenemez. Geri yükleme, kullanılmamış ücretli kredilerini iade eder; ücretsiz ilk kredi geri yüklenmez, bu yüzden nadir durumlarda bir ücretli kredi eksik olabilir.
 
 ## 6. Haklarımız ve mülkiyet
 
