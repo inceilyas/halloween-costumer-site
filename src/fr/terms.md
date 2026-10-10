@@ -69,7 +69,7 @@ Ton premier portrait est offert, une fois par appareil. Si une création échoue
 
 **5.5 Remboursements.** Apple traite tous les paiements et remboursements. Pour demander un remboursement, va sur https://reportaproblem.apple.com ou contacte l'assistance Apple. Nous ne pouvons pas effectuer de remboursements pour les achats sur l'App Store. Les droits impératifs dont tu disposes en vertu de la loi de ton pays (par exemple tout droit de rétractation d'un achat numérique) ne sont pas affectés ; Apple les traite selon ses conditions. Si Apple rembourse un achat, nous pouvons retirer les crédits qu'il avait accordés (y compris ceux déjà utilisés, dans la mesure permise par la loi, ce qui peut ramener ton solde à zéro).
 
-**5.6 Crédits non utilisés et données supprimées.** Si tu utilises Supprimer toutes mes données, le solde de crédits lié à ton identifiant anonyme est supprimé : les packs de crédits non utilisés sont perdus et ne peuvent pas être restaurés, y compris avec Restaurer les achats. Les crédits hebdomadaires restants d'un abonnement actif ne sont pas perdus ; tu peux les restaurer avec Restaurer les achats.
+**5.6 Crédits non utilisés et données supprimées.** Si tu utilises Supprimer toutes mes données, le solde de crédits lié à ton identifiant anonyme est supprimé. Les crédits non utilisés de tes packs de crédits et les crédits hebdomadaires restants d'un abonnement actif ne sont pas perdus : seul leur nombre est conservé avec l'enregistrement d'achat anonymisé, et tu peux les restaurer une seule fois avec Restaurer les achats sur le même compte Apple. Si Apple rembourse un pack, les crédits non utilisés de ce pack ne peuvent plus être restaurés.
 
 ## 6. Nos droits et la propriété
 

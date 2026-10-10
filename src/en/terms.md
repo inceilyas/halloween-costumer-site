@@ -69,7 +69,7 @@ Your first portrait is free, once per device. If a creation fails or is declined
 
 **5.5 Refunds.** Apple processes all payments and refunds. To request a refund, go to https://reportaproblem.apple.com or contact Apple Support. We cannot issue refunds for App Store purchases. Mandatory consumer rights you have under the law of your country (for example any right to withdraw from a digital purchase) are not affected; Apple handles them under its terms. If Apple refunds a purchase, we may remove the credits it granted (including any already used, to the extent allowed by law, which may leave your balance at zero).
 
-**5.6 Unused credits and deleted data.** If you use Delete all my data, the credit balance linked to your anonymous identifier is deleted: unused credit packs are forfeited and cannot be restored, including with Restore Purchases. The remaining weekly credits of an active subscription are not forfeited; you can restore them with Restore Purchases.
+**5.6 Unused credits and deleted data.** If you use Delete all my data, the credit balance linked to your anonymous identifier is deleted. Your unused credit pack credits and the remaining weekly credits of an active subscription are not forfeited: only their number is kept with the anonymized purchase record, and you can restore them once with Restore Purchases on the same Apple Account. If Apple refunds a pack, the unused credits of that pack can no longer be restored.
 
 ## 6. Our rights and ownership
 

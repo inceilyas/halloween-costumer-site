@@ -69,7 +69,7 @@ Dein erstes Porträt ist kostenlos, einmal pro Gerät. Schlägt eine Erstellung 
 
 **5.5 Erstattungen.** Apple wickelt alle Zahlungen und Erstattungen ab. Um eine Erstattung zu beantragen, gehe zu https://reportaproblem.apple.com oder wende dich an den Apple Support. Wir können Käufe im App Store nicht erstatten. Zwingende Verbraucherrechte, die dir nach dem Recht deines Landes zustehen (zum Beispiel ein Widerrufsrecht bei einem digitalen Kauf), bleiben unberührt; Apple behandelt sie nach seinen Bedingungen. Erstattet Apple einen Kauf, können wir die dadurch gutgeschriebenen Credits entfernen (auch bereits verbrauchte, soweit das Gesetz es erlaubt, wodurch dein Guthaben bei null liegen kann).
 
-**5.6 Nicht genutzte Credits und gelöschte Daten.** Wenn du „Alle meine Daten löschen“ verwendest, wird das mit deiner anonymen Kennung verknüpfte Credit-Guthaben gelöscht: Nicht genutzte Credit-Pakete verfallen und können nicht wiederhergestellt werden, auch nicht mit „Käufe wiederherstellen“. Die verbleibenden Wochen-Credits eines aktiven Abos verfallen nicht; du kannst sie mit „Käufe wiederherstellen“ wiederherstellen.
+**5.6 Nicht genutzte Credits und gelöschte Daten.** Wenn du „Alle meine Daten löschen“ verwendest, wird das mit deiner anonymen Kennung verknüpfte Credit-Guthaben gelöscht. Die nicht genutzten Credits deiner Credit-Pakete und die verbleibenden Wochen-Credits eines aktiven Abos verfallen nicht: Nur ihre Anzahl wird mit dem anonymisierten Kaufdatensatz aufbewahrt, und du kannst sie mit „Käufe wiederherstellen“ mit demselben Apple Account einmal wiederherstellen. Erstattet Apple ein Paket, können die nicht genutzten Credits dieses Pakets nicht mehr wiederhergestellt werden.
 
 ## 6. Unsere Rechte und Eigentum
 

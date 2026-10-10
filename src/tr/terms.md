@@ -69,7 +69,7 @@ Tüm satın alımlar Apple'ın Uygulama İçi Satın Alma sistemiyle yapılır v
 
 **5.5 İadeler.** Tüm ödemeleri ve iadeleri Apple işler. İade talep etmek için https://reportaproblem.apple.com adresine git ya da Apple Destek ile iletişime geç. App Store satın alımları için iade yapamayız. Ülkenin kanunu uyarınca sahip olduğun zorunlu tüketici hakları (örneğin dijital bir satın alımdan cayma hakkı) etkilenmez; Apple bunları kendi şartları kapsamında ele alır. Apple bir satın alımı iade ederse, onun verdiği kredileri (kanunun izin verdiği ölçüde, zaten kullanılmış olanlar dahil; bu bakiyeni sıfıra düşürebilir) kaldırabiliriz.
 
-**5.6 Kullanılmayan krediler ve silinen veriler.** Tüm verilerimi sil'i kullanırsan, anonim tanımlayıcına bağlı kredi bakiyesi silinir: kullanılmayan kredi paketleri kaybolur ve Satın Alımları Geri Yükle dahil geri yüklenemez. Etkin bir aboneliğin kalan haftalık kredileri kaybolmaz; bunları Satın Alımları Geri Yükle ile geri yükleyebilirsin.
+**5.6 Kullanılmayan krediler ve silinen veriler.** Tüm verilerimi sil'i kullanırsan, anonim tanımlayıcına bağlı kredi bakiyesi silinir. Kullanılmamış kredi paketi kredilerin ve etkin bir aboneliğin kalan haftalık kredilerin kaybolmaz: yalnızca sayıları anonimleştirilmiş satın alım kaydıyla birlikte saklanır ve bunları aynı Apple Hesabında Satın Alımları Geri Yükle ile bir kez geri yükleyebilirsin. Apple bir paketi iade ederse, o paketin kullanılmamış kredileri artık geri yüklenemez.
 
 ## 6. Haklarımız ve mülkiyet
 

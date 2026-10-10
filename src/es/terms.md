@@ -69,7 +69,7 @@ Tu primer retrato es gratis, una vez por dispositivo. Si una creación falla o s
 
 **5.5 Reembolsos.** Apple procesa todos los pagos y reembolsos. Para solicitar un reembolso, ve a https://reportaproblem.apple.com o ponte en contacto con el Soporte de Apple. No podemos emitir reembolsos de compras del App Store. Los derechos imperativos que te reconozca como consumidor la ley de tu país (por ejemplo, cualquier derecho de desistimiento de una compra digital) no se ven afectados; Apple los gestiona conforme a sus condiciones. Si Apple reembolsa una compra, podemos retirar los créditos que concedió (incluidos los que ya se hayan usado, en la medida en que lo permita la ley, lo que puede dejar tu saldo en cero).
 
-**5.6 Créditos no usados y datos eliminados.** Si usas Eliminar todos mis datos, el saldo de créditos vinculado a tu identificador anónimo se elimina: los paquetes de créditos no usados se pierden y no se pueden restaurar, ni siquiera con Restaurar compras. Los créditos semanales restantes de una suscripción activa no se pierden; puedes restaurarlos con Restaurar compras.
+**5.6 Créditos no usados y datos eliminados.** Si usas Eliminar todos mis datos, el saldo de créditos vinculado a tu identificador anónimo se elimina. Los créditos no usados de tus paquetes de créditos y los créditos semanales restantes de una suscripción activa no se pierden: solo se conserva su número junto con el registro de compra anonimizado, y puedes restaurarlos una sola vez con Restaurar compras con la misma cuenta de Apple. Si Apple reembolsa un paquete, los créditos no usados de ese paquete ya no se pueden restaurar.
 
 ## 6. Nuestros derechos y la propiedad
 
